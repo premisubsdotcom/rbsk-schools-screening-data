@@ -40,8 +40,8 @@
         "headCircumference": "34.0-36.0",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "1": {
@@ -51,8 +51,8 @@
         "headCircumference": "35.3-37.3",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "2": {
@@ -62,8 +62,8 @@
         "headCircumference": "36.7-38.7",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "3": {
@@ -73,8 +73,8 @@
         "headCircumference": "38.0-40.0",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "4": {
@@ -84,8 +84,8 @@
         "headCircumference": "39.3-41.3",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "5": {
@@ -95,8 +95,8 @@
         "headCircumference": "40.7-42.7",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "6": {
@@ -106,8 +106,8 @@
         "headCircumference": "42.0-44.0",
         "muac": "12.2-13.8",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "7": {
@@ -117,8 +117,8 @@
         "headCircumference": "42.5-44.5",
         "muac": "12.4-14.0",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "8": {
@@ -128,8 +128,8 @@
         "headCircumference": "43.0-45.0",
         "muac": "12.5-14.1",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "9": {
@@ -139,8 +139,8 @@
         "headCircumference": "43.5-45.5",
         "muac": "12.7-14.3",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "10": {
@@ -150,8 +150,8 @@
         "headCircumference": "44.0-46.0",
         "muac": "12.9-14.5",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "11": {
@@ -161,8 +161,8 @@
         "headCircumference": "44.5-46.5",
         "muac": "13.0-14.6",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "12": {
@@ -172,8 +172,8 @@
         "headCircumference": "45.0-47.0",
         "muac": "13.2-14.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "13": {
@@ -183,8 +183,8 @@
         "headCircumference": "45.2-47.2",
         "muac": "13.3-14.9",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "14": {
@@ -194,8 +194,8 @@
         "headCircumference": "45.3-47.3",
         "muac": "13.4-15.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "15": {
@@ -205,8 +205,8 @@
         "headCircumference": "45.5-47.5",
         "muac": "13.4-15.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "16": {
@@ -216,8 +216,8 @@
         "headCircumference": "45.7-47.7",
         "muac": "13.5-15.1",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "17": {
@@ -227,8 +227,8 @@
         "headCircumference": "45.8-47.8",
         "muac": "13.6-15.2",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "18": {
@@ -238,8 +238,8 @@
         "headCircumference": "46.0-48.0",
         "muac": "13.7-15.3",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "19": {
@@ -249,8 +249,8 @@
         "headCircumference": "46.2-48.2",
         "muac": "13.8-15.4",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "20": {
@@ -260,8 +260,8 @@
         "headCircumference": "46.3-48.3",
         "muac": "13.9-15.5",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "21": {
@@ -271,8 +271,8 @@
         "headCircumference": "46.5-48.5",
         "muac": "14.0-15.6",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "22": {
@@ -282,8 +282,8 @@
         "headCircumference": "46.7-48.7",
         "muac": "14.0-15.6",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "23": {
@@ -293,8 +293,8 @@
         "headCircumference": "46.8-48.8",
         "muac": "14.1-15.7",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "24": {
@@ -304,8 +304,8 @@
         "headCircumference": "47.0-49.0",
         "muac": "14.2-15.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "25": {
@@ -315,8 +315,8 @@
         "headCircumference": "47.1-49.1",
         "muac": "14.2-15.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "26": {
@@ -326,8 +326,8 @@
         "headCircumference": "47.2-49.2",
         "muac": "14.3-15.9",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "27": {
@@ -337,8 +337,8 @@
         "headCircumference": "47.2-49.2",
         "muac": "14.3-15.9",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "28": {
@@ -348,8 +348,8 @@
         "headCircumference": "47.3-49.3",
         "muac": "14.4-16.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "29": {
@@ -359,8 +359,8 @@
         "headCircumference": "47.4-49.4",
         "muac": "14.4-16.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "30": {
@@ -370,8 +370,8 @@
         "headCircumference": "47.5-49.5",
         "muac": "14.4-16.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "31": {
@@ -381,8 +381,8 @@
         "headCircumference": "47.6-49.6",
         "muac": "14.5-16.1",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "32": {
@@ -392,8 +392,8 @@
         "headCircumference": "47.7-49.7",
         "muac": "14.5-16.1",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "33": {
@@ -403,8 +403,8 @@
         "headCircumference": "47.8-49.8",
         "muac": "14.6-16.2",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "34": {
@@ -414,8 +414,8 @@
         "headCircumference": "47.8-49.8",
         "muac": "14.6-16.2",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "35": {
@@ -425,8 +425,8 @@
         "headCircumference": "47.9-49.9",
         "muac": "14.7-16.3",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "36": {
@@ -436,8 +436,8 @@
         "headCircumference": "48.0-50.0",
         "muac": "14.7-16.3",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "37": {
@@ -447,8 +447,8 @@
         "headCircumference": "48.1-50.1",
         "muac": "14.7-16.3",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "38": {
@@ -458,8 +458,8 @@
         "headCircumference": "48.2-50.2",
         "muac": "14.8-16.4",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "39": {
@@ -469,8 +469,8 @@
         "headCircumference": "48.2-50.2",
         "muac": "14.8-16.4",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "40": {
@@ -480,8 +480,8 @@
         "headCircumference": "48.3-50.3",
         "muac": "14.9-16.5",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "41": {
@@ -491,8 +491,8 @@
         "headCircumference": "48.4-50.4",
         "muac": "14.9-16.5",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "42": {
@@ -502,8 +502,8 @@
         "headCircumference": "48.5-50.5",
         "muac": "15.0-16.6",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "43": {
@@ -513,8 +513,8 @@
         "headCircumference": "48.6-50.6",
         "muac": "15.0-16.6",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "44": {
@@ -524,8 +524,8 @@
         "headCircumference": "48.7-50.7",
         "muac": "15.0-16.6",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "45": {
@@ -535,8 +535,8 @@
         "headCircumference": "48.8-50.8",
         "muac": "15.1-16.7",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "46": {
@@ -546,8 +546,8 @@
         "headCircumference": "48.8-50.8",
         "muac": "15.1-16.7",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "47": {
@@ -557,8 +557,8 @@
         "headCircumference": "48.9-50.9",
         "muac": "15.2-16.8",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "48": {
@@ -2957,8 +2957,8 @@
         "headCircumference": "33.0-35.0",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "1": {
@@ -2968,8 +2968,8 @@
         "headCircumference": "34.3-36.3",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "2": {
@@ -2979,8 +2979,8 @@
         "headCircumference": "35.7-37.7",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "3": {
@@ -2990,8 +2990,8 @@
         "headCircumference": "37.0-39.0",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "4": {
@@ -3001,8 +3001,8 @@
         "headCircumference": "38.3-40.3",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "5": {
@@ -3012,8 +3012,8 @@
         "headCircumference": "39.7-41.7",
         "muac": "Not-applicable",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "Age-specific-laboratory-reference-required"
       },
       "6": {
@@ -3023,8 +3023,8 @@
         "headCircumference": "41.0-43.0",
         "muac": "12.0-13.6",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "7": {
@@ -3034,8 +3034,8 @@
         "headCircumference": "41.5-43.5",
         "muac": "12.2-13.8",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "8": {
@@ -3045,8 +3045,8 @@
         "headCircumference": "42.0-44.0",
         "muac": "12.3-13.9",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "9": {
@@ -3056,8 +3056,8 @@
         "headCircumference": "42.5-44.5",
         "muac": "12.5-14.1",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "10": {
@@ -3067,8 +3067,8 @@
         "headCircumference": "43.0-45.0",
         "muac": "12.7-14.3",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "11": {
@@ -3078,8 +3078,8 @@
         "headCircumference": "43.5-45.5",
         "muac": "12.8-14.4",
         "bloodPressureValue": "80-90/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "12": {
@@ -3089,8 +3089,8 @@
         "headCircumference": "44.0-46.0",
         "muac": "13.0-14.6",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "13": {
@@ -3100,8 +3100,8 @@
         "headCircumference": "44.2-46.2",
         "muac": "13.1-14.7",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "14": {
@@ -3111,8 +3111,8 @@
         "headCircumference": "44.3-46.3",
         "muac": "13.1-14.7",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "15": {
@@ -3122,8 +3122,8 @@
         "headCircumference": "44.5-46.5",
         "muac": "13.2-14.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "16": {
@@ -3133,8 +3133,8 @@
         "headCircumference": "44.7-46.7",
         "muac": "13.2-14.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "17": {
@@ -3144,8 +3144,8 @@
         "headCircumference": "44.8-46.8",
         "muac": "13.3-14.9",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "18": {
@@ -3155,8 +3155,8 @@
         "headCircumference": "45.0-47.0",
         "muac": "13.4-15.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "19": {
@@ -3166,8 +3166,8 @@
         "headCircumference": "45.2-47.2",
         "muac": "13.4-15.0",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "20": {
@@ -3177,8 +3177,8 @@
         "headCircumference": "45.3-47.3",
         "muac": "13.5-15.1",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "21": {
@@ -3188,8 +3188,8 @@
         "headCircumference": "45.5-47.5",
         "muac": "13.5-15.1",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "22": {
@@ -3199,8 +3199,8 @@
         "headCircumference": "45.7-47.7",
         "muac": "13.6-15.2",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "23": {
@@ -3210,8 +3210,8 @@
         "headCircumference": "45.8-47.8",
         "muac": "13.6-15.2",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "24": {
@@ -3221,8 +3221,8 @@
         "headCircumference": "46.0-48.0",
         "muac": "13.7-15.3",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "25": {
@@ -3232,8 +3232,8 @@
         "headCircumference": "46.1-48.1",
         "muac": "13.8-15.4",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "26": {
@@ -3243,8 +3243,8 @@
         "headCircumference": "46.2-48.2",
         "muac": "13.8-15.4",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "27": {
@@ -3254,8 +3254,8 @@
         "headCircumference": "46.2-48.2",
         "muac": "13.9-15.5",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "28": {
@@ -3265,8 +3265,8 @@
         "headCircumference": "46.3-48.3",
         "muac": "13.9-15.5",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "29": {
@@ -3276,8 +3276,8 @@
         "headCircumference": "46.4-48.4",
         "muac": "14.0-15.6",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "30": {
@@ -3287,8 +3287,8 @@
         "headCircumference": "46.5-48.5",
         "muac": "14.0-15.6",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "31": {
@@ -3298,8 +3298,8 @@
         "headCircumference": "46.6-48.6",
         "muac": "14.1-15.7",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "32": {
@@ -3309,8 +3309,8 @@
         "headCircumference": "46.7-48.7",
         "muac": "14.1-15.7",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "33": {
@@ -3320,8 +3320,8 @@
         "headCircumference": "46.8-48.8",
         "muac": "14.2-15.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "34": {
@@ -3331,8 +3331,8 @@
         "headCircumference": "46.8-48.8",
         "muac": "14.2-15.8",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "35": {
@@ -3342,8 +3342,8 @@
         "headCircumference": "46.9-48.9",
         "muac": "14.3-15.9",
         "bloodPressureValue": "85-95/50-60",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "36": {
@@ -3353,8 +3353,8 @@
         "headCircumference": "47.0-49.0",
         "muac": "14.4-16.0",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "37": {
@@ -3364,8 +3364,8 @@
         "headCircumference": "47.1-49.1",
         "muac": "14.4-16.0",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "38": {
@@ -3375,8 +3375,8 @@
         "headCircumference": "47.2-49.2",
         "muac": "14.5-16.1",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "39": {
@@ -3386,8 +3386,8 @@
         "headCircumference": "47.2-49.2",
         "muac": "14.5-16.1",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "40": {
@@ -3397,8 +3397,8 @@
         "headCircumference": "47.3-49.3",
         "muac": "14.6-16.2",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "41": {
@@ -3408,8 +3408,8 @@
         "headCircumference": "47.4-49.4",
         "muac": "14.6-16.2",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "42": {
@@ -3419,8 +3419,8 @@
         "headCircumference": "47.5-49.5",
         "muac": "14.7-16.3",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "43": {
@@ -3430,8 +3430,8 @@
         "headCircumference": "47.6-49.6",
         "muac": "14.7-16.3",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "44": {
@@ -3441,8 +3441,8 @@
         "headCircumference": "47.7-49.7",
         "muac": "14.8-16.4",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "45": {
@@ -3452,8 +3452,8 @@
         "headCircumference": "47.8-49.8",
         "muac": "14.8-16.4",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "46": {
@@ -3463,8 +3463,8 @@
         "headCircumference": "47.8-49.8",
         "muac": "14.9-16.5",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "47": {
@@ -3474,8 +3474,8 @@
         "headCircumference": "47.9-49.9",
         "muac": "14.9-16.5",
         "bloodPressureValue": "90-100/55-65",
-        "visionLeft": "Age-appropriate-assessment-required",
-        "visionRight": "Age-appropriate-assessment-required",
+        "visionLeft": "Not-assessed",
+        "visionRight": "Not-assessed",
         "hb": "11.7-13.0"
       },
       "48": {
@@ -5885,8 +5885,9 @@
     "headCircumference": "Illustrative only; routine growth chart reference not established here for school-aged children.",
     "muac": "Illustrative example without an established universal healthy age- and sex-specific interval, including adults.",
     "bloodPressureValue": "Illustrative only; not a clinically validated healthy band. Requires actual readings and age-specific interpretation.",
-    "visionLeft": "For ages under 4 years, numerical Snellen-style range not developmentally appropriate.",
-    "visionRight": "For ages under 4 years, numerical Snellen-style range not developmentally appropriate.",
+    "visionLeft": "Not-assessed for 0-47 months; no universal healthy numeric Snellen interval for infants/toddlers. Values for 48+ months are synthetic examples and must not be used as examination results.",
+    "visionRight": "Not-assessed for 0-47 months; no universal healthy numeric Snellen interval for infants/toddlers. Values for 48+ months are synthetic examples and must not be used as examination results.",
     "hb": "Illustrative only; WHO anemia screening thresholds are lower cutoffs, NOT upper/lower lab healthy reference ranges."
-  }
+  },
+  "visionDataPolicy": "For 0-47 months, visionLeft and visionRight are Not-assessed rather than fabricated numeric results. Real clinical records require age-appropriate visual assessment."
 }
